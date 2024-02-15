@@ -11,4 +11,4 @@ spring:
       authentication-database: admin
 
 server:
-  port: 27017
+  port: 8080
