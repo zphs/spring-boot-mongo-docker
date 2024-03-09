@@ -78,7 +78,7 @@
 		</dependency>
 
 		<dependency>
-			<groupIdTomcatMavenApp</groupId>
+			<groupId>TomcatMavenApp</groupId>
 			<artifactId>TomcatMavenApp</artifactId>
 			<scope>test</scope>
 		</dependency>
